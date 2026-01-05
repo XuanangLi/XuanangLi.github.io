@@ -38,7 +38,21 @@ My name is Xuanang Li (李轩昂). I recently graduated with a B.S. in Statistic
 -->
 <div class='paper-box-text' markdown="1">
 
-[Optimizing Strategy, Not Scripts: Latent Plan Control for LLM Agents (under ACL ARR OCT review)](#)
+[A Survey on Mechanism Design Meets Large Language Models (under ACL ARR JAN review)](#)
+
+Baiting Chen, Tong Zhu, **Xuanang Li**, Yichi Zhang, Xiaowu Dai
+
+<!-- [**Code**](https://github.com/XuanangLi/llm_for_mechanism_auction/tree/main/llm-auction-main) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+</div>
+</div>
+
+<div class='paper-box'>
+<!--
+<div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/flowchart.jpg' alt="sym" width="10%"></div></div>
+-->
+<div class='paper-box-text' markdown="1">
+
+[Optimizing Strategy, Not Scripts: Latent Plan Control for LLM Agents (under ACL ARR OCT review)](https://openreview.net/forum?id=KgPu9CqAmw&referrer=%5Bthe%20profile%20of%20Xuanang%20Li%5D(%2Fprofile%3Fid%3D~Xuanang_Li1))
 
 Eric Hanchen Jiang†, **Xuanang Li**†, Xiaoran Shang, Guancheng Wan, Hengli Li, Mengting Li, Zhaolu Kang, Xinfeng Li, Ying Nian Wu
 
