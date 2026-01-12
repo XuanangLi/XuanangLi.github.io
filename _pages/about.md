@@ -38,11 +38,11 @@ My name is Xuanang Li (李轩昂). I recently graduated with a B.S. in Statistic
 -->
 <div class='paper-box-text' markdown="1">
 
-[A Survey on Mechanism Design Meets Large Language Models (under ACL ARR JAN review)](#)
+[A Survey on Mechanism Design Meets Large Language Models (under ACL ARR JAN review)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6045274)
 
 Baiting Chen, Tong Zhu, **Xuanang Li**, Yichi Zhang, Xiaowu Dai
 
-<!-- [**Code**](https://github.com/XuanangLi/llm_for_mechanism_auction/tree/main/llm-auction-main) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+[**Code**](https://github.com/XuanangLi/llm_for_mechanism_auction) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
