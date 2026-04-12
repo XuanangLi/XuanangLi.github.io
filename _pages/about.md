@@ -28,6 +28,7 @@ My name is Xuanang Li (李轩昂). I recently graduated with a B.S. in Statistic
 
 # 🔥 News 
 
+- *2026.02*: &nbsp;🎉🎉🎉 I have been admitted to Harvard University's MS in Data Science program.
 - *2025.06*: &nbsp;🎉🎉🎉 I graduated from University of California, Los Angeles with B.S degree in Statistics and Data Science
 
 # 📝 Publications 
