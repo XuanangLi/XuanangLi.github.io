@@ -19,7 +19,7 @@ redirect_from:
 
 # 👋 Hi!
 
-My name is Xuanang Li (李轩昂). I recently graduated with a B.S. in Statistics and Data Science from UCLA, where I conducted research under the supervision of [Prof. Oscar Leong](https://scholar.google.com/citations?user=LN9O4vkAAAAJ&hl=en) and [Prof. Yingnian Wu](https://scholar.google.com/citations?user=7k_1QFIAAAAJ&hl=en)
+My name is Xuanang Li (李轩昂). I graduated with a B.S. in Statistics and Data Science from UCLA, where I conducted research under the supervision of [Prof. Oscar Leong](https://scholar.google.com/citations?user=LN9O4vkAAAAJ&hl=en).
 
 # 🔎 Current Research Topics
 
@@ -39,7 +39,7 @@ My name is Xuanang Li (李轩昂). I recently graduated with a B.S. in Statistic
 -->
 <div class='paper-box-text' markdown="1">
 
-[A Survey on Mechanism Design Meets Large Language Models (under ACL ARR JAN review)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6045274)
+[A Survey on Mechanism Design Meets Large Language Models (Statistical Learning and Data Science (SLADS), special issue on “Statistics and AI",2026)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6045274)
 
 Baiting Chen, Tong Zhu, **Xuanang Li**, Yichi Zhang, Xiaowu Dai
 
@@ -77,6 +77,7 @@ Hongyang He, Yanshu Li, Xinyuan Song, Yangfan He, Daizong Liu, Zeyu Zhang, **Xua
 
 # 📖 Educations 
 
+- *2026.09 - 2028.05*, Harvard University (MS)
 - *2023.09 - 2025.06*, University of California, Los Angeles (UCLA) (BS)
 - *2021.09 - 2023.06*, University of California, Davis (UCD)
 
